@@ -1,0 +1,11 @@
+# gensim
+# google
+matplotlib
+nltk
+numpy
+pandas
+seaborn
+torch
+# yfinance
+#conda install scipy scikit-learn numpy pandas matplotlib seaborn nltk gensim pytorch -c conda-forge
+#pip install scipy --only-binary=:all:
